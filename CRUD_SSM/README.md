@@ -104,8 +104,8 @@ ps：相关的js在
 <center><img src="https://img-blog.csdn.net/20180314210318796?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L2d1b2Rvbmc1NA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70"/></center>
 ## 删除-逻辑
 >1、单个删除  
->
 >>URI:/emp/{id} DELETE  
 
 >2、批量删除  
+
 
